@@ -169,16 +169,6 @@ topico-principal/
 
 ### Estudos Futuros
 
-* Docker
-* CNN
-* Redes Recorrentes (RNN)
-* LSTM e GRU
-* Embeddings
-* Attention mechanisms
-* Transformers
-* Teoria dos Grafos
-* Graph Neural Networks (GNNs)
-
 ---
 
 ## Observações
